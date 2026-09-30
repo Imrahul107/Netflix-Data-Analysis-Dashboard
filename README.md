@@ -126,3 +126,6 @@ It showcases practical skills in Python, Pandas, SQL, Excel, Power BI, data clea
 ## 👨‍💻 Author
 
 **Imrahul107**
+### Dashboard Preview
+
+[View Dashboard PDF](Dashboard/Netflix%20Project%20Dashboard.pdf)
